@@ -112,12 +112,15 @@ If you are new to Git and Python I recommend reading this [article](https://ligh
     - [CAMFR](https://github.com/demisjohn/CAMFR)
   - FEM:
     - [gyptis](https://gyptis.gitlab.io) - based on FEniCS, automatic differentiation with dolfin-adjoint
+    - [GetDP](https://getdp.info/)
   - RCWA:
     - [FMMAX](https://github.com/facebookresearch/fmmax)
     - [S4](https://github.com/victorliu/S4)
     - [grcwa](https://github.com/weiliangjinca/grcwa) - automatic differentiation included with autograd
     - [nannos](https://nannos.gitlab.io) - support for multiple backends (numpy/autograd/torch/jax)
     - [inkstone](https://github.com/alexysong/inkstone)
+  - FIT:
+    - [wakis](https://wakis.readthedocs.io/) - a 3D Time-domain Electromagnetic solver that solves the Integral form of Maxwell's equations using the Finite Integration Technique (FIT) numerical method. 
   - [Bempp](https://bempp.com) - Open-source computational boundary element platform to solve electrostatic, acoustic and electromagnetic problems
   - [OpenModes](https://openmodes.readthedocs.io) - Mode solver for open electromagnetic structures based on the method of moments (MOM)
   - [Sipkit](https://github.com/Photonic-Architecture-Laboratories/si-photonics-toolkit) - A JAX-compatible toolkit providing fundamental waveguide and material properties to aid in the design of silicon photonic components.
